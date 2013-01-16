@@ -1,0 +1,15 @@
+
+PODS:
+- Kal (1.0)
+
+DEPENDENCIES:
+- Kal (from `Kal.podspec')
+
+EXTERNAL SOURCES:
+  Kal:
+    :podspec: Kal.podspec
+
+SPEC CHECKSUMS:
+  Kal: 27ca40599471231b3643a0d34873f830ea69ecd9
+
+COCOAPODS: 0.16.1

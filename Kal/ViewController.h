@@ -7,7 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Kal.h"
 
-@interface ViewController : UIViewController
+
+@interface ViewController : UIViewController <KalViewDelegate>
 
 @end
